@@ -1,0 +1,3 @@
+[submodule "gatekeeper"]
+	path = gatekeeper
+	url = http://github.com/prose/gatekeeper
